@@ -1,0 +1,8 @@
+{
+  "name": "MediLens AI",
+  "description": "A multimodal medical assistant for underserved communities. Analyze symptoms via camera and voice to receive instant, structured medical guidance and severity assessments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
